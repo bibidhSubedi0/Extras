@@ -1,4 +1,4 @@
-# 🧠 My Other Work
+# My Other Works
 
 This repository is a collection of my academic and personal works, technical articles, and small implementation projects.
 
