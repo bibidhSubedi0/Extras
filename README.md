@@ -7,3 +7,4 @@ This repository is a collection of my academic and personal works, technical art
 - **ANN** – A technical paper on a simple Auto Encoder Neural Net (which i worte myself https://github.com/bibidhSubedi0/NxFlow )
 - **NSS** – Implementations of neural style transfer paper (https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 - **LSTM** – Implementations of Forward Pass in a handmade LSTM from Statquest video (https://www.youtube.com/watch?v=YCzL96nL7j0)
+- **Skip-Gram** - Implementation of Skip Gram model word2vec. Took help from the 'Dive into Deep Learning' Book (https://d2l.ai/)
